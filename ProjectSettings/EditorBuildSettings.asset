@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MobileMenu.unity
+    guid: 5c2281268cd2c4d5a90be46c3459e313
+  - enabled: 1
+    path: Assets/Scenes/credits.unity
+    guid: f4513ccabb1fb7345a54e4d05b04fe79
+  - enabled: 1
+    path: Assets/Scenes/EndlessRun.unity
+    guid: d5a646758b97fe44caa362ab67810404
+  - enabled: 0
+    path: Assets/Scenes/3.unity
+    guid: 3bd06e92e7d73400993a38fb30f019f9
+  - enabled: 0
+    path: Assets/Scenes/1.unity
+    guid: dfb4307bb6cefba4cb0421602e6485b9

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 41e679a48a5fa4d4bb648bd8916e45a2
+timeCreated: 1500738739
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Android Scratch
+  fontNames:
+  - Android Scratch
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
